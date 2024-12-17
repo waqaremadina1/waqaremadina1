@@ -46,7 +46,7 @@ I'm Waqar, a passionate Web developer with expertise in building responsive and 
   <a href="https://www.linkedin.com/in/waqaremadina1">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile">
+  <a href="https://www.instagram.com/waqaremadina1">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="30" />
   </a>
 </p>
