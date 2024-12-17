@@ -51,8 +51,9 @@ I'm Waqar, a passionate Web developer with expertise in building responsive and 
 </p>
 
 * Email: waqaremadina1@gmail.com
-* LinkedIn: [Muhammad Nouman](https://www.linkedin.com/in/waqaremadina1)
-* Instagram: [M Nouman](https://www.instagram.com/waqaremadina1)
+* LinkedIn: [Waqar Bin Abrar](https://www.linkedin.com/in/waqaremadina1)
+* Instagram: [Waqar Bin Abrar](https://www.instagram.com/waqaremadina1)
+* Website: [Waqar Bin Abrar] (https://waqarjs.web.app)
 
 **Want to Contribute?**
 
