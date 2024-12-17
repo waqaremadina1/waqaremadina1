@@ -49,11 +49,15 @@ I'm Waqar, a passionate Web developer with expertise in building responsive and 
   <a href="https://www.instagram.com/waqaremadina1">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="30" />
   </a>
+  <a href="https://www.facebook.com/waqaremadina1">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="30" />
+  </a>
 </p>
 
 * Email: waqaremadina1@gmail.com
 * LinkedIn: [Waqar Bin Abrar](https://www.linkedin.com/in/waqaremadina1)
 * Instagram: [Waqar Bin Abrar](https://www.instagram.com/waqaremadina1)
+* Facebook: [Waqar Bin Abrar](https://www.facebook.com/waqaremadina1)
 * Website: [Waqar Bin Abrar](https://waqarjs.web.app)
 
 **Want to Contribute?**
