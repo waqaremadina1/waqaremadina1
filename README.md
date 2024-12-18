@@ -46,7 +46,7 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqaremadina1&show_icons=true&theme=radical)
-![GitHub Streak](waqaremadina1-6144p79ht-waqaremadina1-gmailcoms-projects.vercel.app/?user=waqaremadina1&theme=radical&ring=ffb86c&fire=ff79c6&currStreakLabel=ff79c6&background=282a36)
+[![GitHub Streak](waqaremadina1-6144p79ht-waqaremadina1-gmailcoms-projects.vercel.app/?user=waqaremadina1&theme=radical&ring=ffb86c&fire=ff79c6&currStreakLabel=ff79c6&background=282a36)](https://camo.githubusercontent.com/c200ff654e745b81a10aab5e3075036b84a2c529428ec31e1add61ed00575260/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6e6f756d616e343735267468656d653d64726163756c6126686964655f626f726465723d66616c7365)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waqaremadina1&layout=compact&theme=radical)
 
 
