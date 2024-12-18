@@ -3,7 +3,7 @@
 
 ## Hi👋 there! 
 
-I am an IT Professional (System Administrator) as well as a Web and Mobile App Developer who specializes in creating websites and mobile applications.
+I am an <b>IT Professional</b> (System Administrator) as well as a <b>Web and Mobile App Developer</b> who specializes in creating websites and mobile applications.
 
 **Skills & Technologies:**
 
