@@ -51,8 +51,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waqaremadina1&layout=compact&theme=radical&text_color=ff79c6&bg_color=282a36)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waqaremadina1&theme=radical&ring=ffb86c&fire=ff79c6&currStreakLabel=ff79c6&background=282a36)
 
-
-
 ---
 **Looking to Connect?** 📧
 
