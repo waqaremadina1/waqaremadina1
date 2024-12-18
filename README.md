@@ -47,20 +47,7 @@
 ## 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=waqaremadina1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqaremadina1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-<table>
-  <tr>
-    <td>
-      
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-     
-    </td>
-  </tr>
-</table>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqaremadina1&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ---
 **Looking to Connect?** 📧
