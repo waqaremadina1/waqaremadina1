@@ -65,9 +65,6 @@
   <a href="https://www.facebook.com/waqaremadina1">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="30" />
   </a>
-  <a href="https://waqarjs.web.app">
-    <img src="https://img.icons8.com/fluent/48/000000/website-new.png" alt="Website" width="30" />
-  </a>
 </p>
 
 * Email: waqaremadina1@gmail.com
