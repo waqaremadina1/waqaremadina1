@@ -5,6 +5,8 @@
 
 I am an IT Professional (System Administrator) as well as a Web and Mobile App Developer who specializes in creating websites and mobile applications.
 
+![Profile Views](https://komarev.com/ghpvc/?username=waqaremadina1&color=brightgreen&style=flat)
+
 **Skills & Technologies:**
 
 ### Frontend:
