@@ -3,7 +3,7 @@
 
 ## Hi👋 there! 
 
-I'm Waqar, a passionate Web developer with expertise in building responsive and accessible web applications using modern technologies.
+! I am an IT Professional (System Administrator) as well as a Web and Mobile App who specializes in creating websites and mobile applications.
 
 **Skills & Technologies:**
 
