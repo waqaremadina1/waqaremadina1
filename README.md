@@ -1,5 +1,8 @@
 ![Header](https://github.com/user-attachments/assets/2f5f73f5-18bb-4825-8810-da66b0a6d3f2)
+
+<div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=waqaremadina1&color=brightgreen&style=flat)
+</div>
 
 ## Hi👋 there! 
 
