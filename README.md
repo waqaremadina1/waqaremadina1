@@ -26,6 +26,12 @@
 [![Google Firebase](https://img.shields.io/badge/Google_Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=white)](https://firebase.google.com/)
 [![Google Firestore](https://img.shields.io/badge/Google_Firestore-FFCA28?style=for-the-badge&amp;logo=firestore&amp;logoColor=white)](https://firebase.google.com/docs/firestore)
 
+### Others:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 **Specialties:** &#10024;
 
 * Building responsive and accessible web interfaces &#128640;
@@ -35,6 +41,8 @@
 ![Waqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waqaremadina1&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical&icon_color=ffb86c&text_color=ff79c6&bg_color=282a36)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waqaremadina1&layout=compact&theme=radical&text_color=ff79c6&bg_color=282a36)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waqaremadina1&theme=radical&ring=ffb86c&fire=ff79c6&currStreakLabel=ff79c6&background=282a36)
+
+
 
 ---
 **Looking to Connect?** 📧
