@@ -24,11 +24,11 @@ I am an <b>IT Professional</b> (System Administrator) as well as a <b>Web and Mo
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)](https://www.mongodb.com/)
 [![Google Firebase](https://img.shields.io/badge/Google_Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=white)](https://firebase.google.com/)
-[![Google Firestore](https://img.shields.io/badge/Google_Firestore-FFCA28?style=for-the-badge&amp;logo=firestore&amp;logoColor=white)](https://firebase.google.com/docs/firestore)
 
 ### Others:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![React Context API](https://img.shields.io/badge/Context--API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android CLI](https://img.shields.io/badge/Android_CLI-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=EJS&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
