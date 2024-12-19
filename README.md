@@ -1,9 +1,9 @@
 ![Header](https://github.com/user-attachments/assets/2f5f73f5-18bb-4825-8810-da66b0a6d3f2)
 ![Profile Views](https://komarev.com/ghpvc/?username=waqaremadina1&color=brightgreen&style=flat)
 
-## Hi👋 there! 
+## Hi👋 there!
 
-I am an <b>IT Professional</b> (System Administrator) as well as a <b>Web and Mobile App Developer</b> who specializes in creating websites and mobile applications.
+I am an <b>IT Professional</b> and <b>Web and Mobile App Developer</b> specializing in modern, responsive websites and innovative apps.
 
 **Skills & Technologies:**
 
