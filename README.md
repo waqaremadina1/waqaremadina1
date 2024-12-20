@@ -28,6 +28,7 @@ I am an <b>IT Professional</b> and <b>Web and Mobile App Developer</b> specializ
 ### Others:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![React Context API](https://img.shields.io/badge/Context--API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Android CLI](https://img.shields.io/badge/Android_CLI-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=EJS&logoColor=white)
