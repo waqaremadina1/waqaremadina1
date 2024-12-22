@@ -73,7 +73,3 @@ I am an <b>IT Professional</b> and <b>Web and Mobile App Developer</b> specializ
 * Instagram: [Waqar Bin Abrar](https://www.instagram.com/waqaremadina1)
 * Facebook: [Waqar Bin Abrar](https://www.facebook.com/waqaremadina1)
 * Website: [Waqar Bin Abrar](https://waqarjs.web.app)
-
-**Want to Contribute?**
-
-I'm open to contributions to my open-source projects (if applicable). Please refer to the individual project's contribution guidelines for details.
