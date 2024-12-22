@@ -54,19 +54,23 @@ I am an <b>IT Professional</b> and <b>Web and Mobile App Developer</b> specializ
 **Looking to Connect?** 📧
 
 <p>
-  <a href="mailto:waqaremadina15@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/waqaremadina1">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://www.instagram.com/waqaremadina1">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="30" />
-  </a>
-  <a href="https://www.facebook.com/waqaremadina1">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="30" />
-  </a>
-</p>
+        <a href="mailto:waqaremadina15@gmail.com">
+            <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="30" />
+        </a>
+        <a href="https://www.linkedin.com/in/waqaremadina1" target="_blank">
+            <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30" />
+        </a>
+        <a href="https://www.instagram.com/waqaremadina1" target="_blank">
+            <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="30" />
+        </a>
+        <a href="https://www.facebook.com/waqaremadina1" target="_blank">
+            <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="30" />
+        </a>
+        <!-- Add your website link here -->
+        <a href="https://waqarjs.web.app" target="_blank">
+            <img src="https://img.icons8.com/fluent/48/000000/worldwide-location.png" alt="Website" width="30" />
+        </a>
+    </p>
 
 * Email: waqaremadina1@gmail.com
 * LinkedIn: [Waqar Bin Abrar](https://www.linkedin.com/in/waqaremadina1)
