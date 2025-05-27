@@ -72,8 +72,8 @@ I am an <b>IT Professional</b> and <b>Web and Mobile App Developer</b> specializ
         </a>
     </p>
 
-* Email: waqaremadina1@gmail.com
+* Email: admin@waqar.pk
 * LinkedIn: [Waqar Bin Abrar](https://www.linkedin.com/in/waqaremadina1)
 * Instagram: [Waqar Bin Abrar](https://www.instagram.com/waqaremadina1)
 * Facebook: [Waqar Bin Abrar](https://www.facebook.com/waqaremadina1)
-* Website: [Waqar Bin Abrar](https://waqarjs.web.app)
+* Website: [Waqar Bin Abrar](https://waqar.pk)
