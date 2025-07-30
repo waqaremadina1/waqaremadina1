@@ -3,7 +3,7 @@
 
 ## Hi👋 there!
 
-I am an <b>IT Professional</b> and <b>Web and Mobile App Developer</b> specializing in modern, responsive websites and innovative apps.
+Waqar Bin Abrar – Building Scalable Web Apps & Digital Solutions
 
 **Skills & Technologies:**
 
