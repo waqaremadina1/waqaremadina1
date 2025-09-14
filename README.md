@@ -73,11 +73,11 @@ Building <b>scalable web apps</b> and <b>end-to-end digital solutions</b> that d
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="mailto:waqaremadina15@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="30" /></a>
+  <a href="mailto:admin@waqar.pk"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="30" /></a>
   <a href="https://www.linkedin.com/in/waqaremadina1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30" /></a>
   <a href="https://www.instagram.com/waqaremadina1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="30" /></a>
   <a href="https://www.facebook.com/waqaremadina1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="30" /></a>
-  <a href="https://waqarjs.web.app" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/worldwide-location.png" alt="Website" width="30" /></a>
+  <a href="https://waqar.pk" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/worldwide-location.png" alt="Website" width="30" /></a>
 </p>
 
 - 🌐 Website: [https://waqar.pk](https://waqar.pk)  
