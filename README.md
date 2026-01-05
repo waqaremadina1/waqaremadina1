@@ -1,5 +1,4 @@
 ![Header](https://github.com/user-attachments/assets/da5d907f-2327-4148-8d58-5698f6466e7f)
-![Header](https://github.com/user-attachments/assets/2f5f73f5-18bb-4825-8810-da66b0a6d3f2)
 ![Profile Views](https://komarev.com/ghpvc/?username=waqaremadina1&color=brightgreen&style=flat)
 
 <h1 align="center">Hi 👋, I'm Waqar Bin Abrar</h1>
