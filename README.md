@@ -57,9 +57,9 @@ Building <b>scalable web apps</b> and <b>end-to-end digital solutions</b> that d
 
 ## 🤝 Let's Connect
 <p align="center">
-  <a href="https://waqar.pk" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/worldwide-location.png" alt="Website" width="30" /></a>
-  <a href="https://wa.me/923024402333" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="30" /></a>
-  <a href="https://www.linkedin.com/in/waqaremadina1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30" /></a>
+  <a href="https://waqar.pk"><img src="https://img.icons8.com/fluent/48/000000/worldwide-location.png" alt="Website" width="30" /></a>
+  <a href="https://wa.me/923024402333"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="30" /></a>
+  <a href="https://www.linkedin.com/in/waqaremadina1"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30" /></a>
   <a href="mailto:admin@waqar.pk"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="30" /></a>
 </p>
 
