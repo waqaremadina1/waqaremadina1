@@ -25,19 +25,16 @@ Building <b>scalable web apps</b> and <b>end-to-end digital solutions</b> that d
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Flowbite](https://img.shields.io/badge/Flowbite-3498DB?style=for-the-badge&logo=flowbite&logoColor=white)](https://flowbite.com/)
+[![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)](https://ant.design/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
-### 🎨 UI/Design
-[![Flowbite](https://img.shields.io/badge/Flowbite-3498DB?style=for-the-badge&logo=flowbite&logoColor=white)](https://flowbite.com/)
-[![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)](https://ant.design/)
-
 ### ⚙️ Backend
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 ### 🧩 Others & Tools
 [![Google Firebase](https://img.shields.io/badge/Google_Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
@@ -61,10 +58,9 @@ Building <b>scalable web apps</b> and <b>end-to-end digital solutions</b> that d
 ## 🤝 Let's Connect
 <p align="center">
   <a href="https://waqar.pk" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/worldwide-location.png" alt="Website" width="30" /></a>
-  <a href="mailto:admin@waqar.pk"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="30" /></a>
+  <a href="https://wa.me/923024402333" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="30" /></a>
   <a href="https://www.linkedin.com/in/waqaremadina1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="30" /></a>
-  <a href="https://www.instagram.com/waqaremadina1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="30" /></a>
-  <a href="https://www.facebook.com/waqaremadina1" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="30" /></a>
+  <a href="mailto:admin@waqar.pk"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="30" /></a>
 </p>
 
 
