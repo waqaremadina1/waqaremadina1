@@ -5,14 +5,11 @@
     <img src="https://komarev.com/ghpvc/?username=waqaremadina1&color=2ECC71&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
   
-  <br/>
-
   <h1>Hi 👋, I'm Waqar Bin Abrar</h1>
   
   <p align="center">
-    <strong>Unlock digital success with Waqar Bin Abrar — Full Stack & Mobile App Developer specializing in MERN Stack, Flutter apps, and scalable digital solutions.</strong>
+    <strong>Unlock digital success with Waqar Bin Abrar — Full Stack & Mobile App Developer <br/> specializing in MERN Stack, Flutter apps, and scalable digital solutions.</strong>
   </p>
-
 
 </div>
 
