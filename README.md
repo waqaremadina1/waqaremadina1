@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Waqar Bin Abrar</h1>
 
 <p align="center">
-Unlock digital success with Waqar Bin Abrar — Full Stack & Mobile App Developer specializing in MERN Stack, Flutter apps, and scalable digital solutions.
+Unlock digital success with Waqar Bin Abrar — Full Stack & Mobile App Developer </b> specializing in MERN Stack, Flutter apps, and scalable digital solutions.
 </p>
 
 ---
