@@ -1,5 +1,9 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/da5d907f-2327-4148-8d58-5698f6466e7f" width="100%" alt="Header" />
+
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=waqaremadina1&color=2ECC71&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
   
   <br/>
 
@@ -9,9 +13,7 @@
     <strong>Unlock digital success with Waqar Bin Abrar — Full Stack & Mobile App Developer specializing in MERN Stack, Flutter apps, and scalable digital solutions.</strong>
   </p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=waqaremadina1&color=2ECC71&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
+
 </div>
 
 ---
