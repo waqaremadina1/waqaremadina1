@@ -61,7 +61,7 @@
   <a href="https://waqar.pk"><img src="https://img.icons8.com/fluent/48/000000/worldwide-location.png" alt="Website" width="35" /></a>
   <a href="https://wa.me/923024402333"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp" width="35" /></a>
   <a href="https://www.linkedin.com/in/waqaremadina1"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="35" /></a>
-  <a href="mailto:admin@waqar.pk"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="35" /></a>
+  <a href="mailto:contact@waqar.pk"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email" width="35" /></a>
 </p>
 
 <p align="center">
