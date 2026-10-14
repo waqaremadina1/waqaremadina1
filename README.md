@@ -18,7 +18,6 @@
 ### 🚀 Overview
 
 - 🌐 **Web Expert**: Proficient in the **MERN Stack** (MongoDB, Express, React, Node.js) for building robust, high-traffic web applications.
-- 📱 **Mobile Specialist**: Crafting high-performance cross-platform apps using **Flutter** and **React Native**.
 - ☁️ **Cloud & Deployment**: Experienced in managing scalable infrastructure across **AWS**, **Oracle Cloud**, **Firebase**, and **Vercel**.
 - 🛠️ **Clean Architecture**: Focused on writing modular, maintainable code and optimizing real-time database management.
 
@@ -33,12 +32,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-
-#### 📱 Mobile App Development
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 
 #### ☁️ Deployment & Cloud Infrastructure
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
